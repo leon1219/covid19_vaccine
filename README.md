@@ -16,23 +16,23 @@ Please note that restrictions apply to the availability of Twitter data, which a
 
 ### 2. National-level analysis
 
-1. temporal analysis.xlsx
+1. temporal analysis.xlsx\
 This file include the volume of positive- and negative-classified tweets over time from August 9, 2020, to April 18, 2021. It also shows the national VAI computed each day and on a 7-day rolling average. 
 
 
 ### 3. State-level analysis
 
-##### 1. acceptance_daily.xlsx. 
-##### 2. acceptance_weekly.xlsx
-##### 3. acceptance_monthly.xlsx
+1. acceptance_daily.xlsx
+2. acceptance_weekly.xlsx
+3. acceptance_monthly.xlsx\
 These three files include the state-level VAI results that were calculated on daily, 7-day rolling, and 30-day rolling basis. 
 
-##### 4. vaccination_rate.xlsx
+4. vaccination_rate.xlsx\
 This file shows the vaccination rate for each state on April 22, May 22, June 22, 2021. The data for vaccination rates were obtained from CDC COVID-19 Data Tracker. https://covid.cdc.gov/covid-data-tracker
 
-##### 5. correlation_day.xlsx
-##### 6. correlation_week.xlsx
-##### 7. correlation_month.xlsx
+5. correlation_day.xlsx
+6. correlation_week.xlsx
+7. correlation_month.xlsx\
 These three files show the temporal change in correlation between vaccination rates (June 22, 2021) and the VAI. The correlation analysis was repeated based on daily, 7-day rolling, and 30-day rolling VAI.
 
 
