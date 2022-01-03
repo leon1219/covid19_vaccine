@@ -51,4 +51,4 @@ Our study explores the effect of sample size on the computed correlation between
 6  correlation_county_users.xlsx\
 This dataset shows the change in correlation with number of users and the vaccination rate in a county. The change in correlation with number of users in a county was based on two scenarios: (1) using all the data in the study period, and (2) using data after the first vaccine distribution. 
 
-#### Please note that these data files can only be used for non-commercial purposes related to COVID-19 vaccine topics. If you have any questions about the posted datasets, please do not hesitate to reach us at lilingyao@hotmail.com. 
+#### Please note that these data files can only be used for non-commercial purposes related to COVID-19 vaccine topics. If you have any questions about the posted datasets, please do not hesitate to reach us at lilingyao@hotmail.com or jiayan.zhou03@gmail.com.
