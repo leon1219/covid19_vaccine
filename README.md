@@ -46,7 +46,7 @@ This file shows the county-level vaccination rate on April 22, May 22, June 22, 
 This dataset is the CDC estimated vaccine hesitancy based on the data collected by the CDC from March 3 to 15, 2021. Specific explanations to the estimated vaccine hesitancy is listed here: https://data.cdc.gov/stories/s/Vaccine-Hesitancy-for-COVID-19/cnd2-a6zw/.
 
 5  VAI_county_user30.xlsx\
-Our study explores the effect of sample size on the computed correlation between the index and county-level vaccination rates. The correlation analysis suggests that correlations stabilized when only considering counties for which data was available from at least 30 users. This file shows the county-level data with at least 30 users from a county.
+This study explores the effect of sample size on the computed correlation between the index and county-level vaccination rates. The correlation analysis suggests that correlations stabilized when only considering counties for which data was available from at least 30 users. This file shows the county-level data with at least 30 users from a county.
 
 6  correlation_county_users.xlsx\
 This dataset shows the change in correlation with number of users and the vaccination rate in a county. The change in correlation with number of users in a county was based on two scenarios: (1) using all the data in the study period, and (2) using data after the first vaccine distribution. 
