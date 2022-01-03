@@ -1,6 +1,6 @@
 # Covid-19_vaccine Twitter data
 
-These data files are used to support the findings in the paper "Dynamic assessment of the COVID-19 vaccine acceptance leveraging social media data" published in the Journal of Biomedical Informatics by Lingyao Li, Jiayan Zhou, Zihui Ma, Michelle Bensi, Molly Hall, and Gregory Baecher.
+These data files are used to support the findings in the paper "Dynamic assessment of the COVID-19 vaccine acceptance leveraging social media data" published in the Journal of Biomedical Informatics by Lingyao Li, Jiayan Zhou, Zihui Ma, Michelle Bensi, Molly Hall, and Gregory Baecher. Please note that these data files can only be used for non-commercial purposes related to COVID-19 vaccine topics.
 
 In this study, we proposed a social media-based approach that derives a vaccine acceptance index (VAI) to quantify Twitter users’ opinions on COVID-19 vaccination. This index is calculated based on opinion classifications identified with the aid of natural language processing techniques. This index provides a quantitative metric to indicate the level of vaccine acceptance across different geographic scales in the U.S. 
 
